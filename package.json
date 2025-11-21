@@ -1,0 +1,10 @@
+{
+  "name": "fitness-tracker-monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npm run test --prefix frontend/fitness-tracker",
+    "test:frontend": "npm run test --prefix frontend/fitness-tracker",
+    "test:backend": "npm run test --prefix backend"
+  }
+}

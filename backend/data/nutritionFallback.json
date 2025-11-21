@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Fufu (cassava)",
+    "keywords": ["fufu", "cassava fufu", "akpu"],
+    "servingSizeGrams": 100,
+    "caloriesPerServing": 267
+  },
+  {
+    "name": "Fufu (plantain)",
+    "keywords": ["plantain fufu", "foufou plantain"],
+    "servingSizeGrams": 100,
+    "caloriesPerServing": 250
+  },
+  {
+    "name": "Garri (eba)",
+    "keywords": ["garri", "eba", "cassava flakes"],
+    "servingSizeGrams": 100,
+    "caloriesPerServing": 330
+  },
+  {
+    "name": "Banku",
+    "keywords": ["banku"],
+    "servingSizeGrams": 100,
+    "caloriesPerServing": 187
+  },
+  {
+    "name": "Kenkey",
+    "keywords": ["kenkey"],
+    "servingSizeGrams": 100,
+    "caloriesPerServing": 211
+  },
+  {
+    "name": "Jollof rice",
+    "keywords": ["jollof", "jollof rice"],
+    "servingSizeGrams": 150,
+    "caloriesPerServing": 200
+  },
+  {
+    "name": "Pilau rice",
+    "keywords": ["pilau", "pilaf"],
+    "servingSizeGrams": 150,
+    "caloriesPerServing": 220
+  },
+  {
+    "name": "Fried rice",
+    "keywords": ["fried rice"],
+    "servingSizeGrams": 150,
+    "caloriesPerServing": 215
+  },
+  {
+    "name": "Ugali",
+    "keywords": ["ugali", "sima", "posho"],
+    "servingSizeGrams": 120,
+    "caloriesPerServing": 110
+  },
+  {
+    "name": "Chapati",
+    "keywords": ["chapati", "chapo", "flatbread"],
+    "servingSizeGrams": 80,
+    "caloriesPerServing": 297
+  },
+  {
+    "name": "Mandazi",
+    "keywords": ["mandazi", "mahamri"],
+    "servingSizeGrams": 70,
+    "caloriesPerServing": 320
+  },
+  {
+    "name": "Suya (beef skewer)",
+    "keywords": ["suya", "beef suya", "kebab"],
+    "servingSizeGrams": 85,
+    "caloriesPerServing": 250
+  },
+  {
+    "name": "Goat stew",
+    "keywords": ["goat stew"],
+    "servingSizeGrams": 150,
+    "caloriesPerServing": 190
+  },
+  {
+    "name": "Chicken stew",
+    "keywords": ["chicken stew"],
+    "servingSizeGrams": 150,
+    "caloriesPerServing": 165
+  },
+  {
+    "name": "Beans (waakye)",
+    "keywords": ["beans", "waakye"],
+    "servingSizeGrams": 150,
+    "caloriesPerServing": 220
+  },
+  {
+    "name": "Moi Moi",
+    "keywords": ["moi moi", "moin moin"],
+    "servingSizeGrams": 120,
+    "caloriesPerServing": 180
+  },
+  {
+    "name": "Plantain (fried)",
+    "keywords": ["fried plantain", "dodo"],
+    "servingSizeGrams": 150,
+    "caloriesPerServing": 365
+  },
+  {
+    "name": "Plantain (boiled)",
+    "keywords": ["boiled plantain"],
+    "servingSizeGrams": 150,
+    "caloriesPerServing": 220
+  },
+  {
+    "name": "Tilapia (grilled)",
+    "keywords": ["tilapia", "grilled tilapia"],
+    "servingSizeGrams": 100,
+    "caloriesPerServing": 128
+  },
+  {
+    "name": "Matoke",
+    "keywords": ["matoke", "matooke"],
+    "servingSizeGrams": 150,
+    "caloriesPerServing": 118
+  },
+  {
+    "name": "Sukuma wiki",
+    "keywords": ["sukuma", "collard greens stew", "spinach stew"],
+    "servingSizeGrams": 100,
+    "caloriesPerServing": 80
+  },
+  {
+    "name": "Groundnut soup",
+    "keywords": ["groundnut soup", "peanut stew"],
+    "servingSizeGrams": 240,
+    "caloriesPerServing": 250
+  },
+  {
+    "name": "Egusi soup",
+    "keywords": ["egusi", "melon seed soup"],
+    "servingSizeGrams": 200,
+    "caloriesPerServing": 150
+  },
+  {
+    "name": "Okra soup",
+    "keywords": ["okra soup"],
+    "servingSizeGrams": 200,
+    "caloriesPerServing": 90
+  },
+  {
+    "name": "Cassava leaves stew",
+    "keywords": ["cassava leaves", "saka saka"],
+    "servingSizeGrams": 200,
+    "caloriesPerServing": 150
+  },
+  {
+    "name": "Pounded yam",
+    "keywords": ["pounded yam"],
+    "servingSizeGrams": 200,
+    "caloriesPerServing": 260
+  },
+  {
+    "name": "Boiled yam",
+    "keywords": ["boiled yam"],
+    "servingSizeGrams": 150,
+    "caloriesPerServing": 158
+  },
+  {
+    "name": "Fried yam",
+    "keywords": ["fried yam"],
+    "servingSizeGrams": 150,
+    "caloriesPerServing": 296
+  },
+  {
+    "name": "Kachumbari",
+    "keywords": ["kachumbari", "tomato onion salad"],
+    "servingSizeGrams": 100,
+    "caloriesPerServing": 35
+  },
+  {
+    "name": "Githeri",
+    "keywords": ["githeri"],
+    "servingSizeGrams": 200,
+    "caloriesPerServing": 250
+  }
+]

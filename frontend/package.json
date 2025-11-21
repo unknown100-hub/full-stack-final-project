@@ -1,0 +1,10 @@
+{
+  "name": "fitness-tracker-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "npm run dev --prefix ./fitness-tracker",
+    "start": "npm run start --prefix ./fitness-tracker",
+    "build": "npm run build --prefix ./fitness-tracker"
+  }
+}
