@@ -6,11 +6,14 @@ const connectDB = async () => {
     return;
   }
   try {
-    const uri = process.env.MONGODB_URI || process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/fitness_tracker';
+    const uri = process.env.MONGODB_URI || process.env.MONGO_URI;
+    if (!uri) {
+      throw new Error('MONGODB_URI or MONGO_URI environment variable is not defined');
+    }
     await mongoose.connect(uri, {
       serverSelectionTimeoutMS: 5000,
     });
-    console.log(`MongoDB connected successfully (${uri})`);
+    console.log('MongoDB connected successfully');
   } catch (error) {
     console.error('MongoDB connection failed:', error?.message || error);
     process.exit(1);
